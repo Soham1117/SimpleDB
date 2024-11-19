@@ -1,0 +1,12 @@
+# Ignore bin folder
+bin/
+
+# Ignore Eclipse .project file
+.project
+
+# Ignore studentdb folder
+studentdb/
+
+# Optional: Ignore other IDE-specific files
+.classpath
+.settings/
